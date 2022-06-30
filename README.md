@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋 My Name is Nate Timberlake and I am an up and coming full stack software engineer. I am currently taking classes online at General assembly and I am really enjoying the course. Stay tuned for some things I will create in the near future!
 
 <!--
 **timberlakent/timberlakent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
