@@ -1,4 +1,4 @@
-### Hello there 👋 My Name is Nate Timberlake and I am an up and coming full stack software engineer. I recently just completed a Software Engineering Imeersive course at General Assembly. I have learned so much through the course and will continue to expand my knowledge each day. Below are my most recent projects with many more to come!  
+### Hello there 👋 My Name is Nate Timberlake and I am an up and coming full stack software engineer. I recently just completed a Software Engineering Immersive course at General Assembly. I have learned so much through the course and will continue to expand my knowledge each day. Below are my most recent projects with many more to come!  
 
 <!--
 **timberlakent/timberlakent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
